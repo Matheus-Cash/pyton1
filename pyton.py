@@ -1,4 +1,3 @@
-import random
 
 def jogar_adivinhacao():
     print("Bem-vindo ao jogo de adivinhação!")
