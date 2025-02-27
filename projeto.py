@@ -14,5 +14,5 @@ for letra input palavra_secreta:
       if(chute.upper() == letra.upper());
       print (f''Encontrei a letra {letra} na posicao {index}'');
       index = index +
-      print('jogando');
-      print('fim de jogo');
+      print(''jogando...'')
+      print(''din de jogo...'')
