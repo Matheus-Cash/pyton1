@@ -15,4 +15,4 @@ for letra input palavra_secreta:
       print (f''Encontrei a letra {letra} na posicao {index}'');
       index = index +
       print(''jogando...'')
-      print(''din de jogo...'')
+      print(''fim de jogo...'')
